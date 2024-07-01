@@ -1,0 +1,7 @@
+.app {
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 1fr;
+    grid-gap: 20px;
+    padding-bottom: 24px;
+  }
